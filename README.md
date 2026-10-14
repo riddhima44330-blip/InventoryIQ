@@ -89,4 +89,4 @@ The goal of InventoryIQ is to apply core JavaScript concepts to a practical inve
 
 ---
 
-**Built with ❤️ using HTML, CSS, and JavaScript.**
+**Built using HTML, CSS, and JavaScript.**
